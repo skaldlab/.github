@@ -29,7 +29,7 @@ normalizes their output into a single finding schema, and reports back as
 PR comments, SARIF, or JSON.
 
 ```yaml
-- uses: skaldlab/muninn@v0.1.0
+- uses: skaldlab/muninn@v0.2.0
   with:
     token: ${{ secrets.GITHUB_TOKEN }}
 ```
