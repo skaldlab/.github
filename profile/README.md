@@ -21,7 +21,10 @@ broad coverage, no per-seat pricing, and nothing leaves your repo.
 ### 🐦‍⬛ [Muninn](https://github.com/skaldlab/muninn) — all-in-one CI/CD security scanner
 
 [![CI](https://github.com/skaldlab/muninn/actions/workflows/ci.yml/badge.svg)](https://github.com/skaldlab/muninn/actions/workflows/ci.yml)
+[![CodeQL](https://github.com/skaldlab/muninn/actions/workflows/codeql.yml/badge.svg)](https://github.com/skaldlab/muninn/actions/workflows/codeql.yml)
+[![Release](https://badgen.net/github/release/skaldlab/muninn)](https://github.com/skaldlab/muninn/releases)
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+[![Marketplace](https://img.shields.io/badge/Marketplace-Muninn-181717?logo=github)](https://github.com/marketplace/actions/muninn-security-scanner)
 
 One GitHub Action orchestrates eight best-in-class open-source scanners —
 **gitleaks, zizmor, actionlint, poutine, semgrep, osv-scanner, trivy, checkov** —
